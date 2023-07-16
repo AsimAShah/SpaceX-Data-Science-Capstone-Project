@@ -1,4 +1,4 @@
-# SpaceX-Extracting Insights From Launch Data & Predicting The Stage One Landing Success - A ML Approach
+# SpaceX-Extracting Insights From Launch Data & Predicting Stage One Landing Success - A ML Approach
 Executive Summary:​
 
 Data collection methodology​:
