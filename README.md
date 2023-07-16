@@ -3,13 +3,13 @@ Executive Summary:​
 
 Data collection methodology​:
 
--Interacting with SpaceX API's​
+- Interacting with SpaceX API's​
 
--Web-Scraping a SpaceX Wikipedia Table using Beautiful Soup ​
+- Web-Scraping a SpaceX Wikipedia Table using Beautiful Soup ​
 
 Perform data wrangling​:
 
--One hot encoding data fields for Machine Learning, Handling Missing Values, Dropping Irrelevant Columns, Data Formatting & Data Types, Constructing the Landing Success Column (Output)​
+- One hot encoding data fields for Machine Learning, Handling Missing Values, Dropping Irrelevant Columns, Data Formatting & Data Types, Constructing the Landing Success Column (Output)​
 
 Perform exploratory data analysis (EDA) using visualization and SQL​
 
