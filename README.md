@@ -3,22 +3,19 @@ Executive Summary:​
 
 Data collection methodology​:
 
-Interacting with SpaceX API's​
+- Interacting with SpaceX API's​
 
-Web-Scraping a SpaceX Wikipedia Table using Beautiful Soup ​
+- Web-Scraping a SpaceX Wikipedia Table using Beautiful Soup ​
 
-Perform data wrangling​:
+- Perform data wrangling​:
 
 One hot encoding data fields for Machine Learning, Handling Missing Values, Dropping Irrelevant Columns, Data Formatting & Data Types, Constructing the Landing Success Column (Output)​
 
-Perform exploratory data analysis (EDA) using visualization and SQL​
+- Perform exploratory data analysis (EDA) using visualization and SQL​
 
-Perform interactive visual analytics using Folium Plotly Dash​, and Tableau
+- Perform interactive visual analytics using Folium Plotly Dash​, and Tableau
 
-Perform predictive analysis using classification models​
-
-and perform Feature Scaling​
-
+- Perform predictive analysis using classification models​ and perform Feature Scaling​
 Build and Train Logistic Regression, SVM, Decision Tree, and K-Nearest Neighbors Classification models using the optimal hyperparameters/Cross Validation, use evaluation metrics to see how well the models perform on training data and generalize on test data
 
 ---------------------------------------------------------------------------------------
