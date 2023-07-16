@@ -21,7 +21,8 @@ Performing Feature Scaling​
 
  Build and Train Logistic Regression, SVM, Decision Tree, and K-Nearest Neighbors Classification models using the optimal hyperparameters/Cross Validation ​
 
-Use evaluation metrics to see how well the models perform on training data & generalize on test data 
+Use evaluation metrics to see how well the models perform on training data and generalize on test data
+
 ---------------------------------------------------------------------------------------
 
 1). Interactive Plotly Dash App Link: https://spacexinteractdash-47f4873d7069.herokuapp.com/ 
