@@ -27,4 +27,4 @@ Build and Train Logistic Regression, SVM, Decision Tree, and K-Nearest Neighbors
 
 2). Tableau Interactive Dashboard Link:  https://public.tableau.com/app/profile/asim.shah5745/viz/SpaceXStageOneLandingFactorsSuccessRates/Story1?publish=yes
 
-3). Final Report - 
+3). Final Report - https://github.com/AsimAShah/SpaceX-Data-Science-Capstone-Project/blob/Main-Branch/Final%20Report%20Powerpoint.pdf
