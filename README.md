@@ -20,8 +20,10 @@ Build and Train Logistic Regression, SVM, Decision Tree, and K-Nearest Neighbors
 
 ---------------------------------------------------------------------------------------
 
-1). Interactive Plotly Dash App Link: https://spacexinteractdash-47f4873d7069.herokuapp.com/ 
+1). Interactive Plotly Dash App Link: https://spacexinteractdash-47f4873d7069.herokuapp.com/
 
-2). Tableau Interactive Dashboard Link:  https://public.tableau.com/app/profile/asim.shah5745/viz/SpaceXStageOneLandingFactorsSuccessRates/Story1?publish=yes
+2). Folium Interactive Map Link: https://nbviewer.org/github/AsimAShah/SpaceX-Data-Science-Capstone-Project/blob/Main-Branch/Interactive%20Folium%20Maps%20using%20Launch%20Data%20%28Geospatial%20Analysis%29.ipynb
 
-3). Final Report - https://github.com/AsimAShah/SpaceX-Data-Science-Capstone-Project/blob/Main-Branch/Final%20Report%20Powerpoint.pdf
+3). Tableau Interactive Dashboard Link:  https://public.tableau.com/app/profile/asim.shah5745/viz/SpaceXStageOneLandingFactorsSuccessRates/Story1?publish=yes
+
+4). Final Report - https://github.com/AsimAShah/SpaceX-Data-Science-Capstone-Project/blob/Main-Branch/Final%20Report%20Powerpoint.pdf
