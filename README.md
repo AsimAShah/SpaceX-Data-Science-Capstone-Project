@@ -12,7 +12,8 @@ Cost Comparison: Understand how SpaceX saves money through reusability, offering
 Landing Success: Determine factors that contribute to successful landings and identify reasons behind unsuccessful landings.​
 
 Cost Estimation: Utilize machine learning models to predict the success or failure of Falcon 9 first stage landings, and leverage these predictions to estimate the cost of a launch 
-Executive Summary:​
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Data collection:
 
