@@ -34,8 +34,8 @@ Create interactive visual analytics
 - Interactive Dash App using Plotly - https://spacexinteractdash-47f4873d7069.herokuapp.com/
 - Tableau Interactive Dashboard Story - https://public.tableau.com/app/profile/asim.shah5745/viz/SpaceXStageOneLandingFactorsSuccessRates/Story1?publish=yes
 
-Perform predictive analysis using classification models​ and perform Feature Scaling​
-Build and Train Logistic Regression, SVM, Decision Tree, and K-Nearest Neighbors Classification models using the optimal hyperparameters/Cross Validation, use evaluation metrics to see how well the models perform on training data and generalize on test data
+Perform predictive analysis using classification models​. Perform Feature Scaling​, 
+build and train Logistic Regression, SVM, Decision Tree, and K-Nearest Neighbors Classification models using the optimal hyperparameters/ number of folds for Cross Validation. Finally, use evaluation metrics to see how well the models perform on training data and generalizes on test data
 
 
 Final Report (PowerPoint PDF) - https://github.com/AsimAShah/SpaceX-Data-Science-Capstone-Project/blob/Main-Branch/Final%20Report%20Powerpoint.pdf
