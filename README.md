@@ -3,7 +3,7 @@ Project Background and Context:​
 
 Objective: Predict the successful landing of Falcon 9 first stage rockets.​
 
-Importance: Cost optimization in rocket launches, with SpaceX's reusability feature leading to significant savings​
+Importance: Cost optimization in rocket launches, with SpaceX's Stage 1 reusability feature leading to significant savings​
 
 Problems to Find Answers:​
 
