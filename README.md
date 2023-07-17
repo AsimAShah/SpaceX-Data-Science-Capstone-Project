@@ -29,13 +29,13 @@ Conduct (EDA) Exploratory data analysis using:
 - Visualization Libraries (Seaborn, Matplotlib, etc.)
 - SQL​
 
-Create interactive visual analytics
+Create interactive visual analytics:
 - Interactive Folium Maps - https://nbviewer.org/github/AsimAShah/SpaceX-Data-Science-Capstone-Project/blob/Main-Branch/Interactive%20Folium%20Maps%20using%20Launch%20Data%20%28Geospatial%20Analysis%29.ipynb
 - Interactive Dash App using Plotly - https://spacexinteractdash-47f4873d7069.herokuapp.com/
 - Tableau Interactive Dashboard Story - https://public.tableau.com/app/profile/asim.shah5745/viz/SpaceXStageOneLandingFactorsSuccessRates/Story1?publish=yes
 
-Perform predictive analysis using classification models​. Perform Feature Scaling​, 
-build and train Logistic Regression, SVM, Decision Tree, and K-Nearest Neighbors Classification models using the optimal hyperparameters and the number of folds for Cross Validation. Finally, use evaluation metrics to see how well the models perform on training data and generalize to the unseen test data
+Perform predictive analysis using classification models​:
+- Perform Feature Scaling​, build and train Logistic Regression, SVM, Decision Tree, and K-Nearest Neighbors Classification models using the optimal hyperparameters and the number of folds for Cross Validation. Finally, use evaluation metrics to see how well the models perform on training data and generalize to the unseen test data
 
 
 Final Report (PowerPoint PDF) - https://github.com/AsimAShah/SpaceX-Data-Science-Capstone-Project/blob/Main-Branch/Final%20Report%20Powerpoint.pdf
