@@ -1,30 +1,41 @@
-# SpaceX-Data-Science-Capstone-Project
-Executive Summary:​
+# SpaceX-Extracting Insights From Launch Data & Predicting Stage One Landing Success - A ML Approach
+Project Background and Context:​
 
-Data collection methodology​:
+Objective: Predict the successful landing of Falcon 9 first stage rockets.​
 
-Interacting with SpaceX API's​
+Importance: Cost optimization in rocket launches, with SpaceX's Stage 1 reusability feature leading to significant savings​
 
-Web-Scraping a SpaceX Wikipedia Table using Beautiful Soup ​
+Problems to Find Answers:​
 
-Perform data wrangling​:
+Cost Comparison: Understand how SpaceX saves money through reusability, offering launches at $62 million compared to competitors' costs of $165 million.​
 
-One hot encoding data fields for Machine Learning, Handling Missing Values, Dropping Irrelevant Columns, Data Formatting & Data Types, Constructing the Landing Success Column (Output)​
+Landing Success: Determine factors that contribute to successful landings and identify reasons behind unsuccessful landings.​
 
-Perform exploratory data analysis (EDA) using visualization and SQL​
+Cost Estimation: Utilize machine learning models to predict the success or failure of Falcon 9 first stage landings, and leverage these predictions to estimate the cost of a launch 
 
-Perform interactive visual analytics using Folium Plotly Dash​, and Tableau
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Perform predictive analysis using classification models​
+Data collection:
 
-and perform Feature Scaling​
+- Interacting with SpaceX API's​
 
-Build and Train Logistic Regression, SVM, Decision Tree, and K-Nearest Neighbors Classification models using the optimal hyperparameters/Cross Validation, use evaluation metrics to see how well the models perform on training data and generalize on test data
+- Web-Scraping a SpaceX Wikipedia Table using Beautiful Soup ​
 
----------------------------------------------------------------------------------------
+Data wrangling​:
 
-1). Interactive Plotly Dash App Link: https://spacexinteractdash-47f4873d7069.herokuapp.com/ 
+- One hot encoding data fields for Machine Learning, Handling Missing Values, Dropping Irrelevant Columns, Data Formatting & Data Types, Constructing the Landing Success Column (Output)​
 
-2). Tableau Interactive Dashboard Link:  https://public.tableau.com/app/profile/asim.shah5745/viz/SpaceXStageOneLandingFactorsSuccessRates/Story1?publish=yes
+Conduct (EDA) Exploratory data analysis using:
+- Visualization Libraries (Seaborn, Matplotlib, etc.)
+- SQL​
 
-3). Final Report - 
+Create interactive visual analytics:
+- Interactive Folium Maps - https://nbviewer.org/github/AsimAShah/SpaceX-Data-Science-Capstone-Project/blob/Main-Branch/Interactive%20Folium%20Maps%20using%20Launch%20Data%20%28Geospatial%20Analysis%29.ipynb
+- Interactive Dash App using Plotly - https://spacexinteractdash-47f4873d7069.herokuapp.com/
+- Tableau Interactive Dashboard Story - https://public.tableau.com/app/profile/asim.shah5745/viz/SpaceXStageOneLandingFactorsSuccessRates/Story1?publish=yes
+
+Perform predictive analysis using classification models​:
+- Perform Feature Scaling​, build and train Logistic Regression, SVM, Decision Tree, and K-Nearest Neighbors Classification models using the optimal hyperparameters and the number of folds for Cross Validation. Finally, use evaluation metrics to see how well the models perform on training data and generalize to the unseen test data
+
+
+Final Report (PowerPoint PDF) - https://github.com/AsimAShah/SpaceX-Data-Science-Capstone-Project/blob/Main-Branch/Final%20Report%20Powerpoint.pdf
